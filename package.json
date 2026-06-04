@@ -1,0 +1,16 @@
+{
+  "name": "thenux-anime-netlify-api",
+  "version": "1.0.0",
+  "description": "THENUX Anime scraper API for Netlify Functions",
+  "main": "netlify/functions/api.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "start": "netlify dev"
+  },
+  "keywords": ["thenux", "netlify", "anime", "api"],
+  "author": "THENUX",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
